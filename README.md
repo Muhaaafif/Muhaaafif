@@ -1,7 +1,20 @@
-## Hi there 👋
+#### Hi there 👋
 
 ### I'm Muhammad Afif, a Technical Writer
 
+can read and write in this languange:
+| Rank | Languages |
+|-----:|---------------|
+|     1|  Markdown     |
+|     2|  HTML         |
+|     3|  XML          |
+|     4|  CSS          |
+|     5|  JavaScript   |
+
+- 🌱 I’m currently learning API Documentation, User Manuals, Markdown, HTML, XML, JSON, CSS, and Javascript
+- 👯 I’m looking for opportunity in Technical Writer role
+- My LinkedIn: [LinkedIn](https://www.linkedin.com/in/afif-muhammad/)
+    
 
 <!--
 **Muhaaafif/Muhaaafif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
